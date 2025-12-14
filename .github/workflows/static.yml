@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gada Electronics</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .nav{
+            background-color: orangered;
+            color: white;
+            font-size: 60px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <center>
+            <p>Gada Electronics</p>
+        </center>
+    </div>
+    <center>
+        <br>
+        <h1>Mobile Phones</h1>
+            <br>
+            <br>
+            IPhone 17 Pro <br>
+            <a href="https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF/ref=sr_1_3?adgrpid=180586280868&dib=eyJ2IjoiMSJ9.nmwGHrewwiw-c3C0yW3SqywikFJTnusY-qjdtfQP3dZjwCGRimG_L4KCJKq6795a1DyNcZ2mrfc2a_50TKJMCUPUe45Z-FzNufqDseWSO91bRl8E3zrp8IHExEhHWcaxs-gu6pUyDUmBrpFz6LqjX3Bmoe39ihGQnjy0uhjnEXfqBQ6PUFpo2D7SRiORMQRi890B-LvFhjzMYRf0eh6It4RVH9viTPQtuArJb9TdpUo.AwjyrMvOr4MXlJJd7LtNITEX2e0B_Jdi34xircXnfGQ&dib_tag=se&gad_source=1&hvadid=725269143342&hvdev=c&hvlocphy=9062118&hvnetw=g&hvqmt=b&hvrand=13050399344550434864&hvtargid=kwd-1598592826938&hydadcr=25230_2856648&keywords=iphone+pro+17&mcid=8eb7074a993731efbfdd1fb564fd22c2&qid=1765714828&sr=8-3">
+                <img src="https://mobilekidukaan.in/refubished/01757489520.png" alt="" width="300px"> <br>
+            </a>
+            <h1>Buy Apple iPhone 17 Pro (256GB, Cosmic Orange)</h1>
+            <br>
+            <br>
+            Samsung Galaxy Z Fold 7 <br>
+            <a href="https://www.amazon.in/Samsung-Smartphone-JetBlack-Powerful-Snapdragon/dp/B0FDL5K6SV/ref=sr_1_1?dib=eyJ2IjoiMSJ9._BL1yBcBYbbePp7Gaol0LHdmR-yXt2Fbc4n64DhU8OoCLp3Ccm9FLvElnJp2RHdHDtZvCigXxqGTLi72pZ3yH7rliGNe_W986b_BQJgflvyvCU35MqonYiNKt5g1OSYXDoJqzaRRMalZ4UckaYMaTzhjZ_IxfogqOeafK5VG2JVtVP7iyfy4amT7JQ7kKuJ0AN0USTKuxxx98KY8hQLh47k_TffCyOtDN4lKredW6WR7ZfbyGPBbUL1wTFEp6u-8yYTx5B25LESPXijnDctM-YcoGaFgPZoRlsGNwIn09J0.YouCur1Y3jlmEG4zFx-m11jwilmdvF03X1TfY9nj9EI&dib_tag=se&keywords=samsung+galaxy+z+fold+7&qid=1765715338&s=electronics&sr=1-1">
+                <img src="https://m.media-amazon.com/images/I/61aBczVAabL._SX679_.jpg" alt="" width="300px"> <br>
+            </a>
+            <h1>Samsung Galaxy Z Fold7 5G (Jet Black, 256 GB)</h1>
+            <br>
+            <br>
+            Redmi Note 14 5G <br>
+            <a href="https://www.amazon.in/Redmi-Note-14-5G-Dimensity/dp/B0DPFSH2X3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.pxVyR6XsEYUPKwuUNDrO0xb_2Y672AKzjfmC_Al93b8HVLurFs-JGmiXt_G2BjQvnxCrWiCFtu8iLzah1n2wQbNube635SYfQ4jGmIC9_xXGN_DrJ-2s7jhBtKAs5dg7T7emFmpsypt1EhB5mrGb75-9iHRXnrAdJlSpu9Dr7ZroP7M7g7f32SmHCJcGxPO5yxntna-c2aiqJYXFiHFUYxoOIqGeZ73iA2tHlWyb3Fg9g8Anov7bEIgXwGxW2cJFiuSFIekigWh7g2N106StX3Fqg7kpMm5y5r6crvH5LeU.uFK09Yj70SttpUqThpExHyW7jYpKM5bAAmEK9bKdbT0&dib_tag=se&keywords=redmi+note+14+5g&qid=1765715381&s=electronics&sr=1-3">
+                <img src="https://i03.appmifile.com/101_item_in/05/12/2024/0db378d59c02e542b7965e2edb01599f.png" alt="" width="300px"> <br>
+            </a>
+            <h1>Redmi Note 14 5G (6GB RAM, 128GB, Titanium Black)</h1>
+            <br>
+            <br>
+            Vivo V50e 5G <br>
+            <a href="https://www.amazon.in/V50e-Storage-Additional-Exchange-Offers/dp/B0F217GQKB/ref=sr_1_24?dib=eyJ2IjoiMSJ9.VZdDwF6D294SX34buxxuCMJad_PS-MjLbQxGo1CLpJDSf7no8_MF_OeeAcaPy4ULz5YaiTPL9RpAjv5Oy1KE9p_Tq4kp_LpovbUAxW_0Uq7jXJKdiab2cng9dLgw3xzrv9CsE4nOnqpmnrf-aSXePLCj0h8-WMekDb3fCJ3aFXrVh7jkvBxC5Ry0AEmm-eDejtM6ZSfSs50L3OE7eJLLWhC1z7OT-BwvmbzrRTXmaiGqv0OCDPf_91Tx48TaCOtXDfcVFbx0yJPfonKSkXlxJyOLDIFcxuBXhgS0cBwtJ7o.Fmg1xPmpjm9pBCd04yKa5nTajWIauaW_dWLumnLhl78&dib_tag=se&keywords=vivo+v50+lite&qid=1765715463&s=electronics&sr=1-24">
+                <img src="https://m.media-amazon.com/images/I/71iVGB7GqEL._AC_UL640_FMwebp_QL65_.jpg" alt="" width="300px"> <br>
+            </a>
+            <br>
+            <h1>Vivo V50e 5G (Pearl White, 8GB RAM, 128GB Storage)</h1>
+            <br>
+            <br>
+            OPPO Reno 13 Pro <br>
+            <a href="https://www.amazon.in/OPPO-Reno13-Pro-5G-Graphite/dp/B0FJMSK48H/ref=sr_1_1?dib=eyJ2IjoiMSJ9.M-o6d-2aCwQufQYNxFeXheFZh83i_mFra53MLGaqpQI344dNZwAEmi25S-J13wMydf9k8lC53tsnvnYI_x6OLKjRS6-TKI-wyr3IxpsadHw83vulZAqBrmKvg88p5HiGSkRDyRlbUI6dLcgO30YolOqcJ1T6A6FHCfidtLP0SgK0Yz5HV8sp0QJVwvHI9m9NnVd-eRa52sHG9wgyXUreKO4eVffrJ-0H1MsviIp8Gescl46515oZAEhN-U7Dz16YIWlNIwaej2gsTdUJNTspe9LT7DbaeX_0SNIpZwF8KvQ.RhJJE4S4n9bcfa3NLP_yW78KiBbYoJx4iLPvDqBt1DY&dib_tag=se&keywords=oppo+reno+13+pro&qid=1765715596&s=electronics&sr=1-1">
+                <img src="https://img-prd-pim.poorvika.com/product/oppo-reno-13-pro-5g-graphite-grey-512gb-12gb-ram-front-back-view-model.png" alt="" width="300px"> <br>
+            </a>
+            <h1>OPPO Reno13 Pro 5G (12GB RAM, 512GB, Graphite Grey)</h1> 
+            <br>
+            <br>
+    </center>
+</body>
+</html># Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
